@@ -1,5 +1,5 @@
 #include <string>
 using namespace std;
 namespace ariel{
-    string mat(int rows, int colums, char ch1, char ch2);
+    string mat(int colums, int rows, char ch1, char ch2);
 }
